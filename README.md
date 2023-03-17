@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-🔱  &nbsp; I'm a 4th year Computer Science student at UC San Diego <br /> 
-🖥️  &nbsp; I work with the UCSD Design Lab <br />
-🅰️  &nbsp; I'm learning Angular right now!  
+🔱  &nbsp; Comp Sci Student <br /> 
+🖥️  &nbsp; Job Searching <br />
+🅰️  &nbsp; Doing Web Stuff   
 
 <hr> 
 
